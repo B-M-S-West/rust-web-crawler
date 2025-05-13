@@ -4,3 +4,7 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+async-std = "1.2.0"
+surf = "1.0.3"
+html5ever = "0.25.1"
+url = "2.1.0"
